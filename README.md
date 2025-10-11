@@ -21,11 +21,11 @@
 
 ## 🚀 Skills
 - ### Languages:
-    JavaScript, Python, C#, Flutter
+    React, Angular, Typescript, JavaScript, Python, C#, Flutter
 - ### Frameworks/Libraries:
-     React
+     React, Angular
 - ### Databases:
-     MySQL, Firebase
+     SQL, Firebase
   
 ---
 
@@ -39,8 +39,8 @@
 
 ## 💼 Experience & Training
 - ### Software Engineer  
-     Dubizzle Labs (React JS, Frontend) (Oct 2023 - Present)
-- ### Junior Game Developer - Intern  
-     Tihami Studios (Unity 3D) (Dec 2021 - Jan 2022)
+     Motive (Angular, Frontend) (Aug 2025 - Present)
+- ### Software Engineer  
+     Dubizzle Labs (React JS, Frontend) (Oct 2023 - Aug 2025)
 - ### Game Development Fellow  
      Mindstorm Studios (Unity 3D) (June 2021 - Aug 2021)
