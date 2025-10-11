@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fatima Shahid
 
-### An innovative Software Engineer currently working as a React Developer in the industry.
+### An innovative Software Engineer currently working as a Frontend Developer in the industry.
 
 ---
 
