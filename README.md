@@ -20,12 +20,39 @@
 ---
 
 ## 🚀 Skills
-- ### Programming Languages/Frameworks/Libraries:
-     Python, JavaScript, TypeScript, C#, Angular, React.js, Next.js, Flutter, FastAPI, RESTful APIs, Jasmine, NumPy, Pandas, Spark, Machine Learning (ML), Generative AI
-- ### Database Management:
-     Firebase, SQL
-- ### Software Development Tools and Platforms:
-     Agile, CI/CD, GitHub, Zendesk, Statsig, Pendo, Tableau, Excel, Webpack
+### 🧑‍💻 Programming Languages
+
+🐍 Python
+🟨 JavaScript
+🔷 TypeScript
+🟣 C#
+
+### 🌐 Frontend & Mobile
+
+🅰️ Angular
+⚛️ React.js
+▲ Next.js
+📱 Flutter
+
+### ⚙️ Backend & APIs
+
+🚀 FastAPI
+🔗 RESTful APIs
+
+### 🧪 Testing
+
+🧩 Jasmine
+
+### 📊 Data & Big Data
+
+📐 NumPy
+🐼 Pandas
+⚡ Apache Spark
+
+### 🤖 AI & ML
+
+🧠 Machine Learning (ML)
+✨ Generative AI
   
 ---
 
