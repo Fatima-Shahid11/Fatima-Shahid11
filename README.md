@@ -22,37 +22,38 @@
 ## 🚀 Skills
 ### 🧑‍💻 Programming Languages
 
-🐍 Python
-🟨 JavaScript
-🔷 TypeScript
-🟣 C#
+- 🐍 Python
+- 🟨 JavaScript
+- 🔷 TypeScript
+- 🟣 C#
 
 ### 🌐 Frontend & Mobile
 
-🅰️ Angular
-⚛️ React.js
-▲ Next.js
-📱 Flutter
+- 🅰️ Angular
+- ⚛️ React.js
+- ▲ Next.js
+- 📱 Flutter
+- MERN
 
 ### ⚙️ Backend & APIs
 
-🚀 FastAPI
-🔗 RESTful APIs
+- 🚀 FastAPI
+- 🔗 RESTful APIs
 
 ### 🧪 Testing
 
-🧩 Jasmine
+- 🧩 Jasmine
 
 ### 📊 Data & Big Data
 
-📐 NumPy
-🐼 Pandas
-⚡ Apache Spark
+- 📐 NumPy
+- 🐼 Pandas
+- ⚡ Apache Spark
 
 ### 🤖 AI & ML
 
-🧠 Machine Learning (ML)
-✨ Generative AI
+- 🧠 Machine Learning (ML), LLMs, NLP
+- ✨ Generative AI
   
 ---
 
