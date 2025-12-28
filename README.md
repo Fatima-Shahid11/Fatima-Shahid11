@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fatima Shahid
 
-### An innovative Software Engineer currently working as a Frontend Developer in the industry.
+### An innovative Software Engineer with hands-on industry experience integrating and developing AI products into applications.
 
 ---
 
@@ -20,12 +20,12 @@
 ---
 
 ## 🚀 Skills
-- ### Languages:
-    React, Angular, Typescript, JavaScript, Python, C#, Flutter
-- ### Frameworks/Libraries:
-     React, Angular
-- ### Databases:
-     SQL, Firebase
+- ### Programming Languages/Frameworks/Libraries:
+     Python, JavaScript, TypeScript, C#, Angular, React.js, Next.js, Flutter, FastAPI, RESTful APIs, Jasmine, NumPy, Pandas, Spark, Machine Learning (ML), Generative AI
+- ### Database Management:
+     Firebase, SQL
+- ### Software Development Tools and Platforms:
+     Agile, CI/CD, GitHub, Zendesk, Statsig, Pendo, Tableau, Excel, Webpack
   
 ---
 
@@ -39,7 +39,7 @@
 
 ## 💼 Experience & Training
 - ### Software Engineer  
-     Motive (Angular, Frontend) (Aug 2025 - Present)
+     Motive (Angular, AI, Frontend) (Aug 2025 - Present)
 - ### Software Engineer  
      Dubizzle Labs (React JS, Frontend) (Oct 2023 - Aug 2025)
 - ### Game Development Fellow  
