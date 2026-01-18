@@ -20,55 +20,41 @@
 ---
 
 ## 🚀 Skills
-### 🧑‍💻 Programming Languages
 
-- 🐍 Python
-- 🟨 JavaScript
-- 🔷 TypeScript
-- 🟣 C#
+### 🧑‍💻 Programming Languages
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) 
+[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 ### 🌐 Frontend & Mobile
-
-- 🅰️ Angular
-- ⚛️ React.js
-- ▲ Next.js
-- 📱 Flutter
-- MERN
+[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) 
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) 
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) 
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) 
+[![Node](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 ### ⚙️ Backend & APIs
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev) 
+[![REST API](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
-- 🚀 FastAPI
-- 🔗 RESTful APIs
+### 🤖 AI & ML, Gen AI
+[![Machine Learning](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
 
-### 🧪 Testing
-
-- 🧩 Jasmine
-
-### 📊 Data & Big Data
-
-- 📐 NumPy
-- 🐼 Pandas
-- ⚡ Apache Spark
-
-### 🤖 AI & ML
-
-- 🧠 Machine Learning (ML), LLMs, NLP
-- ✨ Generative AI
-  
 ---
 
 ## 🎓 Education
 - ### Bachelors in Software Engineering
-     Punjab University College of Information Technology (PUCIT) (2019 - 2023)
+  Punjab University College of Information Technology (PUCIT) (2019 - 2023)
 - ### HSSC (Pre-Engineering)  
-     Lahore College for Women University (LCWU) (2016 - 2018)
+  Lahore College for Women University (LCWU) (2016 - 2018)
 
 ---
 
 ## 💼 Experience & Training
 - ### Software Engineer  
-     Motive (Angular, AI, Frontend) (Aug 2025 - Present)
+  Motive (Angular, AI, Frontend) (Aug 2025 - Present)
 - ### Software Engineer  
-     Dubizzle Labs (React JS, Frontend) (Oct 2023 - Aug 2025)
+  Dubizzle Labs (React JS, Frontend) (Oct 2023 - Aug 2025)
 - ### Game Development Fellow  
-     Mindstorm Studios (Unity 3D) (June 2021 - Aug 2021)
+  Mindstorm Studios (Unity 3D) (June 2021 - Aug 2021)
