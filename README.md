@@ -8,38 +8,19 @@
 
 ---
 
-## 📧 How to Reach Me
-- **Email:** [shahidfatima785@gmail.com](mailto:shahidfatima785@gmail.com)
-- **Phone:** +92 324 5148092
-
----
-
 ## 🤝 Connect with Me
+- **Email:** [shahidfatima785@gmail.com](mailto:shahidfatima785@gmail.com)  
+- **Phone:** +92 324 5148092  
 - [LinkedIn](https://www.linkedin.com/in/fatima-shahid-044430209/)
 
 ---
 
 ## 🚀 Skills
+## 🚀 Skills
 
-### 🧑‍💻 Programming Languages
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) 
-[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+### ⚙️ Programming Languages/Frameworks/Skills
 
-### 🌐 Frontend & Mobile
-[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) 
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) 
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) 
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev) 
-[![Node](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-
-### ⚙️ Backend & APIs
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev) 
-[![REST API](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-
-### 🤖 AI & ML, Gen AI
-[![Machine Learning](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
 
 ---
 
