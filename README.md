@@ -162,7 +162,7 @@ AI-powered code review tool using **Next.js** and **n8n**. Analyzes code in any 
 
 <br>
 
-<a href="https://github.com/Fatima-Shahid11/comaa">
+<a href="https://github.com/Fatima-Shahid11/code-reviewer">
   <img src="https://img.shields.io/badge/View_Project-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
 </a>
 
