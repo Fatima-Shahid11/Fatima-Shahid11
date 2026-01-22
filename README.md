@@ -1,35 +1,267 @@
-# Hi 👋, I'm Fatima Shahid
+<div align="center">
 
-### An innovative Software Engineer with hands-on industry experience integrating and developing AI products into applications.
+# Hi there, I'm Fatima Shahid!
 
----
-
-### 👩‍💻 Explore my projects on [GitHub](https://github.com/Fatima-Shahid11)
+### 🚀 Software Engineer | 🤖 AI Engineer | 💻 Full-Stack Developer
 
 ---
 
-## 🤝 Connect with Me
+</div>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidfatima785@gmail.com)  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923245148092)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-shahid-044430209/)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fatima-Shahid11)
+<div align="center">
+  
+### About Me
+  
+<p>🌟 Innovative Software Engineer with hands-on experience</p>
+<p>🌟 Specializing in AI product integration & development</p>
+<p>🌟 Passionate about working with LLMs and GenAI to create intelligent, user-friendly solutions</p>
+<p>🌟 Bringing creativity and technical excellence to every project</p>
 
-### ⚙️ Programming Languages/ Frameworks/ Skills
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />  <img color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+---
+
+## Let's Connect!
+
+<p align="center">
+<a href="mailto:shahidfatima785@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B9D" alt="Email" />
+</a>
+<a href="tel:+923245148092">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://www.linkedin.com/in/fatima-shahid-044430209/">
+  <img src="https://img.shields.io/badge/LinkedIn-9D84B7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Fatima-Shahid11">
+  <img src="https://img.shields.io/badge/GitHub-8B5FBF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
+
+---
+
+## Tech Stack & Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,react,angular,nextjs,flutter,nodejs,fastapi,postman,figma,vscode,github&perline=7" />
+</p>
+
+<details>
+<summary>📚 <b>More Technologies</b></summary>
+<br>
+
+**Languages:** Python • JavaScript • TypeScript • C#  
+**Frontend:** React • Angular • Next.js • Flutter  
+**Backend:** Node.js • FastAPI • RESTful APIs  
+**AI/ML:** LLMs • NLP • Generative AI • Groq API  
+**Tools:** Git • Postman • Figma • VS Code  
+**Databases:** PostgreSQL • MongoDB  
+
+</details>
 
 ---
 
 ## 🎓 Education
-- ### Bachelors in Software Engineering
-  Punjab University College of Information Technology (PUCIT) (2019 - 2023)
-- ### HSSC (Pre-Engineering)  
-  Lahore College for Women University (LCWU) (2016 - 2018)
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<br>
+
+### Bachelor of Software Engineering
+
+**Punjab University College of Information Technology (PUCIT)**
+
+**Duration:** Sep 2019 - July 2023
+
+**Major Subjects**
+- Data Structures & Algorithms
+- Software Engineering
+- Operating Systems
+- Data Science
+
+⭐ **GPA:** 3.49/4.00
+
+<br>
+
+</td>
+<td width="50%" valign="top">
+<br>
+
+### HSSC (Pre-Engineering)
+
+**Lahore College for Women University (LCWU)**
+
+**Duration:** Sep 2016 - Aug 2018
+
+**Major Subjects:** 
+- Mathematics
+- Physics
+- Chemistry
+
+⭐ **Grade:** A
+
+<br>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 💼 Experience & Training
-- ### Software Engineer  
-  Motive (Angular, AI, Frontend) (Aug 2025 - Present)
-- ### Software Engineer  
-  Dubizzle Labs (React JS, Frontend) (Oct 2023 - Aug 2025)
-- ### Game Development Fellow  
-  Mindstorm Studios (Unity 3D) (June 2021 - Aug 2021)
+## 💼 Professional Experience
+```yaml
+Current:
+  company: "Motive"
+  role: "Software Engineer"
+  tech: ["Angular", "AI Chatbots", "Frontend"]
+  period: "Aug 2025 - Present"
+  focus: "Building Fleet Dashboard & Help Center with AI integration"
+
+Previous:
+  - company: "Dubizzle Labs"
+    role: "Software Engineer"
+    tech: ["React", "Redux", "Frontend"]
+    period: "Oct 2023 - Aug 2025"
+    achievements: "Delivered 15+ sprints across OLX, Bayut, Dubizzle"
+
+Fellowship:
+  - company: "Mindstorm Studios"
+    role: "Game Development Fellow"
+    tech: ["Unity 3D", "C#"]
+    period: "June 2021 - Aug 2021"
+    project: "Developed Mafia Run - hyper-casual mobile game"
+```
+
+---
+
+## 🌟 Featured Projects
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+<br>
+
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
+
+### 🤖 Code Reviewer (Comaa)
+
+<br>
+
+AI-powered code review tool using **Next.js** and **n8n**. Analyzes code in any language, detects issues, provides recommendations, and generates improved code.
+
+<br>
+
+**Tech Stack:** JavaScript • Next.js • n8n • AI
+
+<br>
+
+<a href="https://github.com/Fatima-Shahid11/comaa">
+  <img src="https://img.shields.io/badge/View_Project-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
+
+<br><br>
+
+</td>
+<td width="50%" align="center">
+<br>
+
+<img src="https://img.icons8.com/fluency/96/000000/comic-book.png" width="80"/>
+
+### 📚 Comics Builder
+
+<br>
+
+AI-powered comic script generator using **Groq API** and **LLaMA**. Generate comic scripts based on any text prompt with customizable page lengths.
+
+<br>
+
+**Tech Stack:** JavaScript • Groq API • LLaMA • AI
+
+<br>
+
+<a href="https://github.com/Fatima-Shahid11/comics-builder">
+  <img src="https://img.shields.io/badge/View_Project-9D84B7?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
+
+<br><br>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<br>
+
+<img src="https://img.icons8.com/fluency/96/000000/controller.png" width="80"/>
+
+### 🎮 Mafia Run
+
+<br>
+
+**Unity 3D** endless runner game with mafia-themed gameplay and smooth animations. Developed during Game Development Fellowship.
+
+<br>
+
+**Tech Stack:** C# • Unity 3D • Game Development
+
+<br>
+
+<a href="https://github.com/Fatima-Shahid11/mafia-run">
+  <img src="https://img.shields.io/badge/View_Project-C77DFF?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
+
+<br><br>
+
+</td>
+<td width="50%" align="center">
+<br>
+
+<img src="https://img.icons8.com/fluency/96/000000/android.png" width="80"/>
+
+### 📱 Womanista
+
+<br>
+
+**Flutter-based** mobile app designed for women with modern UI/UX. Cross-platform application with elegant design and smooth user experience.
+
+<br>
+
+**Tech Stack:** Dart • Flutter • Mobile Development
+
+<br>
+
+<a href="https://github.com/Fatima-Shahid11/womanista">
+  <img src="https://img.shields.io/badge/View_Project-FF6B9D?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
+
+<br><br>
+
+</td>
+</tr>
+<tr>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+<a href="https://github.com/Fatima-Shahid11?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-8B5FBF?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+</a>
+</p>
+
+<br>
+
+
+<br>
+
+---
+
+</div>
