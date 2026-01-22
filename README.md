@@ -118,14 +118,14 @@
 Current:
   company: "Motive"
   role: "Software Engineer"
-  tech: ["Angular", "AI Chatbots", "Frontend"]
+  tech: ["Angular", "AI Chatbots", "Feature Development"]
   period: "Aug 2025 - Present"
   focus: "Building Fleet Dashboard & Help Center with AI integration"
 
 Previous:
   - company: "Dubizzle Labs"
     role: "Software Engineer"
-    tech: ["React", "Redux", "Frontend"]
+    tech: ["React", "Redux", "Software Development", "Multi Tenant Web Applications"]
     period: "Oct 2023 - Aug 2025"
     achievements: "Delivered 15+ sprints across OLX, Bayut, Dubizzle"
 
@@ -134,7 +134,7 @@ Fellowship:
     role: "Game Development Fellow"
     tech: ["Unity 3D", "C#"]
     period: "June 2021 - Aug 2021"
-    project: "Developed Mafia Run - hyper-casual mobile game"
+    project: "Developed Mafia Run - Hyper-casual mobile game"
 ```
 
 ---
