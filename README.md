@@ -2,7 +2,7 @@
 
 # Hi there, I'm Fatima Shahid!
 
-### 🚀 Software Engineer | 🤖 AI Engineer | 💻 Software Developer
+### 🚀 AI Engineer | Software Developer
 
 ---
 
