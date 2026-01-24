@@ -63,20 +63,18 @@
 
 ## 🎓 Education
 
-<br>
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<br>
+<td>
 
 ### Bachelor of Software Engineering
 
-**Punjab University College of Information Technology (PUCIT)**
-
+**Punjab University College of Information Technology (PUCIT)**  
 **Duration:** Sep 2019 - July 2023
 
-**Major Subjects**
+**Major Subjects:**
 - Data Structures & Algorithms
 - Software Engineering
 - Operating Systems
@@ -84,32 +82,26 @@
 
 ⭐ **GPA:** 3.49/4.00
 
-<br>
-
 </td>
-<td width="50%" valign="top">
-<br>
+<td>
 
 ### HSSC (Pre-Engineering)
 
-**Lahore College for Women University (LCWU)**
-
+**Lahore College for Women University (LCWU)**  
 **Duration:** Sep 2016 - Aug 2018
 
-**Major Subjects:** 
+**Major Subjects:**
 - Mathematics
 - Physics
 - Chemistry
 
 ⭐ **Grade:** A
 
-<br>
-
 </td>
 </tr>
 </table>
 
-<br>
+</div>
 
 ---
 
@@ -141,9 +133,7 @@ Fellowship:
 
 ## 🌟 Featured Projects
 
-<br>
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center">
 <br>
@@ -244,9 +234,6 @@ AI-powered comic script generator using **Groq API** and **LLaMA**. Generate com
 
 </td>
 </tr>
-<tr>
-
-</tr>
 </table>
 
 <br>
@@ -259,9 +246,4 @@ AI-powered comic script generator using **Groq API** and **LLaMA**. Generate com
 
 <br>
 
-
-<br>
-
 ---
-
-</div>
