@@ -63,16 +63,17 @@
 
 ## 🎓 Education
 
-<div align="center">
+<br>
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="50%" valign="top">
+<br>
 
 ### Bachelor of Software Engineering
 
 **Punjab University College of Information Technology (PUCIT)**  
-**Duration:** Sep 2019 - July 2023
+📅 **Duration:** Sep 2019 - July 2023
 
 **Major Subjects:**
 - Data Structures & Algorithms
@@ -82,13 +83,16 @@
 
 ⭐ **GPA:** 3.49/4.00
 
+<br>
+
 </td>
-<td>
+<td width="50%" valign="top">
+<br>
 
 ### HSSC (Pre-Engineering)
 
 **Lahore College for Women University (LCWU)**  
-**Duration:** Sep 2016 - Aug 2018
+📅 **Duration:** Sep 2016 - Aug 2018
 
 **Major Subjects:**
 - Mathematics
@@ -97,11 +101,13 @@
 
 ⭐ **Grade:** A
 
+<br>
+
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
 ---
 
